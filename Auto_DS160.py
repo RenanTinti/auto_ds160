@@ -423,6 +423,8 @@ while True:
 		continue
 	break
 
+# ==================================== SAVE SCREEN ====================================================================================================================
+
 while True:
 	try:
 		driver.find_element(By.XPATH, '/html/body/form/div[3]/div[5]/div[2]/div/fieldset/div/fieldset/table/tbody/tr/td[1]/div/span/input').click()
@@ -439,48 +441,6 @@ while True:
 		print('Clicou em Next: Personal 2')
 	except:
 		print('Tentando clicar em Next: Personal 2')
-		time.sleep(1)
-		continue
-	break
-
-# ==================================== SAVE SCREEN ====================================================================================================================
-
-while True:
-	try:
-		driver.find_element(By.XPATH, '/html/body/form/div[3]/div[5]/div[2]/div/fieldset/div/fieldset/table/tbody/tr/td[1]/div/span/input').click()
-		print('Clicou em Continue Application')
-	except:
-		print('Tentando clicar em Continue Application')
-		time.sleep(1)
-		continue
-	break
-
-while True:
-	try:
-		driver.find_element(By.XPATH, '/html/body/form/div[3]/div[5]/div[2]/div/fieldset/div/fieldset/table/tbody/tr/td[1]/div/span/input').click()
-		print('Clicou em Continue Application')
-	except:
-		print('Tentando clicar em Continue Application')
-		time.sleep(1)
-		continue
-	break
-
-while True:
-	try:
-		driver.find_element(By.XPATH, '/html/body/form/div[3]/div[5]/div[2]/div/fieldset/div/fieldset/table/tbody/tr/td[1]/div/span/input').click()
-		print('Clicou em Continue Application')
-	except:
-		print('Tentando clicar em Continue Application')
-		time.sleep(1)
-		continue
-	break
-
-while True:
-	try:
-		driver.find_element(By.XPATH, '/html/body/form/div[3]/div[5]/div[2]/div/fieldset/div/fieldset/table/tbody/tr/td[1]/div/span/input').click()
-		print('Clicou em Continue Application')
-	except:
-		print('Tentando clicar em Continue Application')
 		time.sleep(1)
 		continue
 	break
