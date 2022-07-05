@@ -31,8 +31,7 @@ driver.get('https://ceac.state.gov/GenNIV/default.aspx')
 driver.maximize_window()
 
 # Aguardando 30 segundos para o preenchimento do código e, possivelmente, do país
-time.sleep(15
-)
+time.sleep(15)
 
 # Carregando a planilha Excel do formulário preenchido 
 wb = load_workbook('Formulario-Visto-EUA_2022.xlsx', data_only=True)
@@ -40,7 +39,7 @@ sh = wb['Table 1']
 
 # Definição das variáveis que serão usadas nos testes
 aid = 'AA00B26AAF'
-surname = 'TINTI'
+surname = 'A'
 year_of_birth = '1990'
 mother_mother = 'NICE'
 

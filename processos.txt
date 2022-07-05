@@ -1,0 +1,290 @@
+SELECT A LOCATRION WHERE YOU WILL BE APPLYING FOR THIS VISA (MANUAL)
+
+ENTER THE CODE AS SHOWN (MANUAL)
+
+START AN APPLICATION (MANUAL)
+
+=================================================================
+
+I AGREE
+
+/html/body/form/div[3]/div[4]/div/div[3]/span[6]/span/span/input
+
+NAME OF MOTHER MOTHER - SEND KEYS "NICE"
+
+/html/body/form/div[3]/div[4]/div/div[6]/div[3]/input
+
+COPY APPLICATION ID
+
+/html/body/form/div[3]/div[4]/div/div[5]/div/div[1]/span[2]
+
+CONTINUE
+
+/html/body/form/div[3]/div[4]/div/div[7]/fieldset/div/span[1]/input
+
+=================================================================
+
+PERSONAL INFORMATION 1
+
+SURNAMES
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[1]/div[1]/div[1]/input
+
+GIVEN NAMES
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[1]/div[1]/div[2]/input
+
+FULL NAME IN NATIVE ALPHABET
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[1]/div[1]/div[3]/input
+
+DOES NOT APPLY/TECHNOLOGY NOT AVAILABLE (CHECKBOX)
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[1]/div[1]/div[3]/div/span/span/input
+
+HAVE YOU EVER USED OTHER NAMES
+
+YES
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[2]/fieldset[1]/div[1]/div/div[2]/div/div/span/span/table/tbody/tr/td[1]/span/input
+
+NO
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[2]/fieldset[1]/div[1]/div/div[2]/div/div/span/span/table/tbody/tr/td[2]/input
+
+
+TELECODE THAT REPRESENTS YOUR NAME
+
+YES
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[3]/fieldset[1]/div[1]/div/div[2]/div/div/span/span/table/tbody/tr/td[1]/span/input
+
+NO
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[3]/fieldset[1]/div[1]/div/div[2]/div/div/span/span/table/tbody/tr/td[2]/input
+
+
+SEX
+
+MALE
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[1]/div/span/span/table/tbody/tr/td[1]/input
+
+FEMALE
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[1]/div/span/span/table/tbody/tr/td[2]/input
+
+
+MARITAL STATUS
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[2]/div/select
+
+MARRIED
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[2]/div/select/option[2]
+
+COMMON LAW MARRIAGE
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[2]/div/select/option[3]
+
+CIVIL UNION
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[2]/div/select/option[4]
+
+SINGLE
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[2]/div/select/option[5]
+
+WINDOWED
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[2]/div/select/option[6]
+
+DIVORCED
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[2]/div/select/option[7]
+
+LEGALY SEPARATED
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[2]/div/div[2]/div/select/option[8]
+
+
+BIRTH DAY
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[3]/div[1]/div/div/div[1]/select[1]
+
+MONTH
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[3]/div[1]/div/div/div[1]/select[2]
+
+YEAR
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[3]/div[1]/div/div/div[1]/input
+
+
+CITY
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[3]/div[1]/div/div/div[2]/input
+
+
+STATE
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[3]/div[1]/div/div/div[3]/input
+
+DOES NOT APPLY (CHECKBOX)
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[3]/div[1]/div/div/div[3]/div/span/span/input
+
+
+COUNTRY
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/fieldset[3]/div[1]/div/div/select
+
+
+SAVE
+
+/html/body/form/div[3]/div[5]/div/div[2]/fieldset/div/span[2]/input
+
+===================================================================
+
+CONTINUE APPLICATION
+
+/html/body/form/div[3]/div[5]/div[2]/div/fieldset/div/fieldset/table/tbody/tr/td[1]/div/span/input
+
+==================================================================
+
+NEXT - PERSONAL 2
+
+/html/body/form/div[3]/div[5]/div/div[2]/fieldset/div/span[3]/input
+
+==================================================================
+
+COUNTRY - REGION OF ORIGIN NATIONALITY (COMBOBOX)
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[1]/div[1]/div[1]/div/div/select
+
+OTHER NATIONALITY? (RADIO)
+
+YES
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[1]/div[1]/div[2]/div/div[2]/div[1]/span/span/table/tbody/tr/td[1]/input
+
+NO
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[1]/div[1]/div[2]/div/div[2]/div[1]/span/span/table/tbody/tr/td[2]/input
+
+    IF YES, SELECT OTHER COUNTRY (COMBOBOX)
+
+    /html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[1]/div[1]/div[2]/div/div[2]/div[2]/div/table/tbody/tr/td/div[1]/div[1]/select
+
+    HAVE PASSPORT OF OTHER NATIONALITY?
+
+    YES
+
+    /html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[1]/div[1]/div[2]/div/div[2]/div[2]/div/table/tbody/tr/td/div[1]/div[2]/div/div[2]/div[1]/span/span/table/tbody/tr/td[1]/input
+
+    NO
+
+    /html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[1]/div[1]/div[2]/div/div[2]/div[2]/div/table/tbody/tr/td/div[1]/div[2]/div/div[2]/div[1]/span/span/table/tbody/tr/td[2]/input
+
+        IF YES, FILL THE PASSPORT NUMBER
+
+        /html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[1]/div[1]/div[2]/div/div[2]/div[2]/div/table/tbody/tr/td/div[1]/div[2]/div/div[2]/div[2]/div/div/input
+
+PERMAMENT RESIDENT OF COUNTRY OTHER THAN NATIONALITY? (RADIO)
+
+YES
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[2]/div[1]/div/div/div[2]/div[1]/span/span/table/tbody/tr/td[1]/input
+
+NO
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[2]/div[1]/div/div/div[2]/div[1]/span/span/table/tbody/tr/td[2]/input
+
+    IF YES, SELECT COUNTRY (COMBO)
+
+    /html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[2]/div[1]/div/div/div[2]/div[2]/div/table/tbody/tr/td/div[1]/div/select
+
+
+NATIONAL IDENTIFICATION NUMBER
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[3]/div[1]/div[1]/input
+
+DOES NOT APPLY
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[3]/div[1]/div[1]/div/span/span/input
+
+
+US SOCIAL SECURITY NUMBER (3-2-4)
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[3]/div[1]/div[2]/input[1]
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[3]/div[1]/div[2]/input[2]
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[3]/div[1]/div[2]/input[3]
+
+DOES NOT APPLY
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[3]/div[1]/div[3]/div/span/span/input
+
+US TAXPAYER ID NUMBER
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[3]/div[1]/div[3]/input
+
+DO NOT APPLY
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[2]/fieldset[3]/div[1]/div[3]/div/span/span/input
+
+NEXT - TRAVEL
+
+/html/body/form/div[3]/div[5]/div/div[2]/fieldset/div/span[3]/input
+
+========================================================================================================
+
+PURPOSE OF TRIP (COMBOBOX)
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[1]/fieldset/div/div[1]/div/table/tbody/tr/td/div[1]/div[1]/select
+
+SPECIFY
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[1]/fieldset/div/div[1]/div/table/tbody/tr/td/div[1]/div[2]/select
+
+SPECIFIC TRAVEL PLANS (HARD-CODED "NO")
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[2]/fieldset/div[1]/div[2]/div[2]/div/div/span/span/table/tbody/tr/td[2]/input
+
+ARRIVAL (DD/MM/YYYY)
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[2]/fieldset/div[2]/div[1]/div[1]/div[1]/select[1]
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[2]/fieldset/div[2]/div[1]/div[1]/div[1]/select[2]
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[2]/fieldset/div[2]/div[1]/div[1]/div[1]/input
+
+LENGTH OF STAY (NUMBER OF - DAY\WEEK\MONTH\YEAR (COMBOBOX))
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[2]/fieldset/div[2]/div[1]/div[2]/div/input
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[2]/fieldset/div[2]/div[1]/div[2]/div/select
+
+PERSON/ENTITY PAYING FOR YOUR TRIP (COMBOBOX)
+
+/html/body/form/div[3]/div[5]/div/table/tbody/tr/td/div[3]/div[4]/div/fieldset/div/div/select
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
